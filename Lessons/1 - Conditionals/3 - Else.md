@@ -2,7 +2,7 @@
 
 ## 3.3 - Else
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J
 
 <table>
 <tr>
@@ -203,5 +203,3 @@ Reminder: `document.getElementById("guess").addEventListener("click", guess_10);
 
 
 <br><br>
-
-🐿️
