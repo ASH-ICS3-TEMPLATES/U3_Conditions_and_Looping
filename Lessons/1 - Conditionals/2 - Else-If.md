@@ -2,7 +2,7 @@
 
 ## 3.2 - Else-If
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J
 
 <table>
 <tr>
@@ -201,5 +201,5 @@ Keep in mind, not all of those require ELSE-IF.
 
 <br><br>
 
-🐿️
+
 
