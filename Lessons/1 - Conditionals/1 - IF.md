@@ -2,7 +2,7 @@
 
 ## 3.1: If-Statements
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J
 
 <table>
 <tr>
@@ -206,4 +206,3 @@ Create the function `discriminant(a, b, c)` which _returns how many zeros the qu
 
 <br><br>
 
-🐿️
