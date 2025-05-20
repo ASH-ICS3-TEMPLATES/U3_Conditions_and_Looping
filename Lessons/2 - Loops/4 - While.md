@@ -104,9 +104,9 @@ Programming languages have the ability to move back up to a specific line in the
     <p>
         It's not as simple as saying "go back to line 12", but it's still pretty simple:
     </p>
-    <img src="../images/while.jpg" alt="While loop syntax">
+   
 </div>
-
+ <img src="../images/while.jpg" alt="While loop syntax">
 <span style="color:skyblue;">**Think of the condition _just like an if-statement_!**</span> The code will loop (repeat) and _continue_ to loop if (or _while_) the condition is `true`. Let's look at some examples:
 
 ### Examples
